@@ -17,9 +17,5 @@ Here are some ideas to get you started:
 
 😄 Pronouns: they/them
 
-<a href="https://github.com/selanda/github-stats">
-   
-![](https://github.com/Selanda/github-stats/tree/master/generated/overview.svg)
-![](https://github.com/Selanda/github-stats/tree/master/generated/languages.svg)
-
-</a>
+![](https://github.com/selanda/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/selanda/github-stats/blob/master/generated/languages.svg)
