@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Sel
 
-## 😄 pronouns: they/them
+## pronouns: they/them / [#TransLivesMatter](https://translivesmatter.xyz/) / [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
 
 Welcome to my GitHub page! I enjoy pushing the limits of code as it was designed to find new and different use cases, or breaking it completely becuase I found something the developers never planned for. 
 
