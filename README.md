@@ -3,21 +3,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 # Hi there 👋, I'm Sel
 
-## pronouns: they/them / [#TransLivesMatter](https://translivesmatter.xyz/) / [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
+## [#TransLivesMatter](https://translivesmatter.xyz/) / [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
 
-Welcome to my GitHub page! I enjoy pushing the limits of code as it was designed to find new and different use cases, or breaking it completely becuase I found something the developers never planned for. 
+- 😄 Pronouns: them/them/theirs
+- 🔭 I’m currently working on testing new and different use cases (or breaking stuff completely because I am the unexpected user...)
+- 🌱 I’m currently learning better self-care techniques
+- 👯 I’m looking to collaborate on Windows automation via batch and powershell scripts
 
 ![](https://github.com/selanda/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/selanda/github-stats/blob/master/generated/languages.svg)
