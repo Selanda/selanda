@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Sel
 
-## [#TransLivesMatter](https://translivesmatter.xyz/) / [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
+## [#TransLivesMatter](https://translivesmatter.xyz/)
 
 - 😄 Pronouns: them/them/theirs
 - 🔭 I’m currently working on testing new and different use cases (or breaking stuff completely because I am the unexpected user...)
