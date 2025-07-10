@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## [#TransLivesMatter](https://translivesmatter.xyz/)
 
 - 😄 Pronouns: them/them/theirs 🏳️‍🌈🏳️‍⚧️
-- ΘΔ gargoyle trash gryphon
+- ΘΔ opossum / trash gryphon / grigori
 - 🔭 I’m currently working on testing new and different use cases (or breaking stuff completely because I am the unexpected user...)
 - 🌱 I’m currently learning better self-care techniques
 - 👯 I’m looking to collaborate on Windows automation via batch and powershell scripts
